@@ -1,0 +1,1 @@
+z=print("\t\tmul={}".format(float(input("Enter the value of a :"))*float(input("Enter the value of b :"))))

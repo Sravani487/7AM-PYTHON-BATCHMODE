@@ -1,0 +1,15 @@
+#program for performing artimetic operations in Python
+#ArthimeticExpEx1.py
+a=float(input("Enter the value of a:"))
+b=float(input("Enter the value of b:"))
+print("*"*50)
+print("***Arthimetic Expressions")
+print("*"*50)
+print("\t\tSum({},{})={}".format(a,b,a+b))
+print("\t\tSub({},{})={}".format(a,b,a-b))
+print("\t\tmul({},{})={}".format(a,b,a*b))
+print("\t\tdiv({},{})={}".format(a,b,a/b))
+print("\t\tfdiv({},{})={}".format(a,b,a//b))
+print("\t\tMdiv({},{})={}".format(a,b,a%b))
+print("\t\tpow({},{})={}".format(a,b,a**b))
+print("*"*50)

@@ -1,0 +1,10 @@
+r=float(input("Enter the radius :"))
+pc=2*3.14*r
+print("="*50)
+print("Value of radius :{}".format(r))
+print("Perimeter of the circle:{}".format(pc))
+print("-"*50)
+print("Perimeter of the circle : %0.2f" %pc)
+print("-"*50)
+print("Perimeter of the circle:{}".format(round(pc,2)))
+print("*"*50)

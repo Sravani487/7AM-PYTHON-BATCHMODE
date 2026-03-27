@@ -1,0 +1,15 @@
+#Program to perform all Arithmetic operations for given numbers.
+#ArthimeticOpExP1.py
+a=float(input("Enter the Value of a :"))
+b=float(input("Enter the value of b :"))
+print("------------------------------------")
+print("Arithmetic Operations results ")
+print("------------------------------------")
+print("\t\tsum of {} ,{} = {}".format(a,b,a+b))
+print("\t\tsub of {} ,{} = {}".format(a,b,a-b))
+print("\t\tmul of {} ,{} = {}".format(a,b,a*b))
+print("\t\tDiv of {} ,{} = {}".format(a,b,a/b))
+print("\t\tfloordiv of {} ,{} = {}".format(a,b,a//b))
+print("\t\tmoddiv of {} ,{} = {}".format(a,b,a%b))
+print("\t\tExp of {} ,{} = {}".format(a,b,a**b))
+print("------------------------------------")
