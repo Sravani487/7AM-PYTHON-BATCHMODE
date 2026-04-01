@@ -1,5 +1,5 @@
 #program for calculating product of N natural numbers and where n is +ve.
-#WhileloopEx8.py
+#WhileloopEx7.py
 n=int(input("Enter how many numbers you want to generate:"))
 if n<=0:
     print("{} is an invalid input".format(n))
